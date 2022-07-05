@@ -6,5 +6,5 @@ The purpose of <a href="https://twitter.com/search?q=%23learn365&src=typeahead_c
 
 | Day |           Topic             |
 |-----|-----------------------------|
-| 1   | <a href="https://github.com/axmol-xp/Learn365/blob/main/Days/Day1.md">Server Side Request Forgery, Red Team Advisary Emulation</a> |
-| 2   | Server Side Request Forgery: Types and ways to exploit. Red Team: MITRE ATT&CK |
+| 1   | <a href="https://github.com/axmol-xp/Learn365/blob/main/Days/Day1.md">Server Side Request Forgery, Red Team</a> |
+| 2   | <a href="https://github.com/axmol-xp/Learn365/blob/main/Days/Day2.md">Server Side Request Forgery: Types and ways to exploit, Red Team</a> |
